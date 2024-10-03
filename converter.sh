@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-#this is whole some
 
 #Check if the argument is 2 if it's not it will guide you for the usage
 if [ $# -ne 2 ]; then
